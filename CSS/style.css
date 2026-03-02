@@ -1,0 +1,456 @@
+body{
+    background-color:rgb(34, 49, 59);
+}
+.slots{
+    position: relative;
+}
+.slots:hover{
+    cursor: pointer;
+}
+#slot1,#slot2,#slot3,#slot4,#slot5,#slot6,#slot7,#slot8,#slot9,#slot10,#slot11,#slot12,#slot13,#slot14,#slot15,#slot16,#slot17,#slot18,#slot19,#slot20,#slot21,#slot22,#slot23,#slot24,#slot25,#slot26,#slot27,#slot28,#slot29,#slot30,#slot31,#slot32,#slot33,#slot34,#slot35,#slot36,#slot36,#slot37,#slot38,#slot39,#slot40,#slot41,#slot42,#slot43,#slot44,#slot45,#slot46,#slot47,#slot48,#slot49 {
+    z-index: 2;
+    width: 60px;
+    height: 60px;
+    border: black solid 3px;
+    border-radius: 10px;
+    position: absolute;
+    background-color:rgb(104, 179, 230);
+}
+#navio:hover{
+    transform: scale(1.1);
+}
+#navio1:hover{
+    transform: scale(1.1);
+}
+#navio2:hover{
+    transform: scale(1.1);
+}
+#navio3:hover{
+    transform: scale(1.1);
+}
+#navio4:hover{
+    transform: scale(1.1);
+}
+#navio5:hover{
+    transform: scale(1.1);
+}
+#navio6:hover{
+    transform: scale(1.1);
+}
+#slot1:hover {
+    transform: scale(1.1);
+}
+#slot2:hover {
+    transform: scale(1.1);
+}
+#slot3:hover {
+    transform: scale(1.1);
+}
+#slot4:hover {
+    transform: scale(1.1);
+}
+#slot5:hover {
+    transform: scale(1.1);
+}
+#slot6:hover {
+    transform: scale(1.1);
+}
+#slot7:hover {
+    transform: scale(1.1);
+}
+#slot8:hover {
+    transform: scale(1.1);
+}
+#slot9:hover {
+    transform: scale(1.1);
+}
+#slot10:hover {
+    transform: scale(1.1);
+}
+#slot11:hover {
+    transform: scale(1.1);
+}
+#slot12:hover {
+    transform: scale(1.1);
+}
+#slot13:hover {
+    transform: scale(1.1);
+}
+#slot14:hover {
+    transform: scale(1.1);
+}
+#slot15:hover {
+    transform: scale(1.1);
+}
+#slot16:hover {
+    transform: scale(1.1);
+}
+#slot17:hover {
+    transform: scale(1.1);
+}
+#slot18:hover {
+    transform: scale(1.1);
+}
+#slot19:hover {
+    transform: scale(1.1);
+}
+#slot20:hover {
+    transform: scale(1.1);
+}
+#slot21:hover {
+    transform: scale(1.1);
+}
+#slot22:hover {
+    transform: scale(1.1);
+}
+#slot23:hover {
+    transform: scale(1.1);
+}
+#slot24:hover {
+    transform: scale(1.1);
+}
+#slot25:hover {
+    transform: scale(1.1);
+}
+#slot26:hover {
+    transform: scale(1.1);
+}
+#slot27:hover {
+    transform: scale(1.1);
+}
+#slot28:hover {
+    transform: scale(1.1);
+}
+#slot29:hover {
+    transform: scale(1.1);
+}
+#slot30:hover {
+    transform: scale(1.1);
+}
+#slot31:hover {
+    transform: scale(1.1);
+}
+#slot32:hover {
+    transform: scale(1.1);
+}
+#slot33:hover {
+    transform: scale(1.1);
+}
+#slot34:hover {
+    transform: scale(1.1);
+}
+#slot35:hover {
+    transform: scale(1.1);
+}
+#slot36:hover {
+    transform: scale(1.1);
+}
+#slot37:hover {
+    transform: scale(1.1);
+}
+#slot38:hover {
+    transform: scale(1.1);
+}
+#slot39:hover {
+    transform: scale(1.1);
+}
+#slot40:hover {
+    transform: scale(1.1);
+}
+#slot41:hover {
+    transform: scale(1.1);
+}
+#slot42:hover {
+    transform: scale(1.1);
+}
+#slot43:hover {
+    transform: scale(1.1);
+}
+#slot44:hover {
+    transform: scale(1.1);
+}
+#slot45:hover {
+    transform: scale(1.1);
+}
+#slot46:hover {
+    transform: scale(1.1);
+}
+#slot47:hover {
+    transform: scale(1.1);
+}
+#slot48:hover {
+    transform: scale(1.1);
+}
+#slot49:hover {
+    transform: scale(1.1);
+}
+#slot1{
+    margin-left: 60px;
+}
+#slot2{
+    margin-left: 123px;
+}
+#slot3{
+    margin-left: 186px;
+}
+#slot4{
+    margin-left: 249px;
+}
+#slot5{
+    margin-left: 312px;
+}
+#slot6{
+    margin-left: 375px;
+}
+#slot7{
+    margin-left: 438px;
+}
+#slot8{
+    margin-left: 60px;
+    top: 63px;
+}
+#slot9{
+    margin-left: 123px;
+    top: 63px;
+}
+#slot10{
+    margin-left: 186px;
+    top: 63px;
+}
+#slot11{
+    margin-left: 249px;
+    top: 63px;
+}
+#slot12{
+    margin-left: 312px;
+    top: 63px;
+}
+#slot13{
+    margin-left: 375px;
+    top: 63px;
+}
+#slot14{
+    margin-left: 438px;
+    top: 63px;
+}
+#slot15{
+    margin-left: 60px;
+    top: 126px;
+}
+#slot16{
+    margin-left: 123px;
+    top: 126px;
+}
+#slot17{
+    margin-left: 186px;
+    top: 126px;
+}
+#slot18{
+    margin-left: 249px;
+    top: 126px;
+}
+#slot19{
+    margin-left: 312px;
+    top: 126px;
+}
+#slot20{
+    margin-left: 375px;
+    top: 126px;
+}
+#slot21{
+    margin-left: 438px;
+    top: 126px;
+}
+#slot22{
+    margin-left: 60px;
+    top: 189px;
+}
+#slot23{
+    margin-left: 123px;
+    top: 189px;
+}
+#slot24{
+    margin-left: 186px;
+    top: 189px;
+}
+#slot25{
+    margin-left: 249px;
+    top: 189px;
+}
+#slot26{
+    margin-left: 312px;
+    top: 189px;
+}
+#slot27{
+    margin-left: 375px;
+    top: 189px;
+}
+#slot28{
+    margin-left: 438px;
+    top: 189px;
+}
+#slot29{
+    margin-left: 60px;
+    top: 252px;
+}
+#slot30{
+    margin-left: 123px;
+    top: 252px;
+}
+#slot31{
+    margin-left: 186px;
+    top: 252px;
+}
+#slot32{
+    margin-left: 249px;
+    top: 252px;
+}
+#slot33{
+    margin-left: 312px;
+    top: 252px;
+}
+#slot34{
+    margin-left: 375px;
+    top: 252px;
+}
+#slot35{
+    margin-left: 438px;
+    top: 252px;
+}
+#slot36{
+    margin-left: 60px;
+    top: 315px;
+}
+#slot37{
+    margin-left: 123px;
+    top: 315px;
+}
+#slot38{
+    margin-left: 186px;
+    top: 315px;
+}
+#slot39{
+    margin-left: 249px;
+    top: 315px;
+}
+#slot40{
+    margin-left: 312px;
+    top: 315px;
+}
+#slot41{
+    margin-left: 375px;
+    top: 315px;
+}
+#slot42{
+    margin-left: 438px;
+    top: 315px;
+}
+#slot43{
+    margin-left: 60px;
+    top: 378px;
+}
+#slot44{
+    margin-left: 123px;
+    top: 378px;
+}
+#slot45{
+    margin-left: 186px;
+    top: 378px;
+}
+#slot46{
+    margin-left: 249px;
+    top: 378px;
+}
+#slot47{
+    margin-left: 312px;
+    top: 378px;
+}
+#slot48{
+    margin-left: 375px;
+    top: 378px;
+}
+#slot49{
+    margin-left: 438px;
+    top: 378px;
+}
+
+.posicaoladodireito{
+    position: absolute;
+    right: 20vw;
+    width: 200px;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+.butoesdificuldade{
+    white-space: nowrap;
+    position: absolute;
+    top: 80px;
+}
+#titulo1{
+    white-space: nowrap;
+    font-size: 70px;
+    color: black;
+    text-shadow: rgba(255, 255, 255, 0.548) 0px 0px 20px;
+}
+.estilobutao1{
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%);
+    white-space: nowrap;
+    border: solid transparent 3px;
+    background-color:rgb(31, 77, 80);
+    box-shadow: rgba(255, 255, 255, 0.548) 0px 0px 20px;
+    border-radius: 30px;
+    font-size: 60px;
+}
+.estilobutao1:hover{
+    cursor: pointer;
+    animation: 2s aumentar;
+    animation-iteration-count: 1;
+}
+@keyframes aumentar {
+    20%{
+        font-size: 75px;
+    }
+}
+.estilobutao{
+    margin-top: 70px;
+    border: solid transparent 3px;
+    background-color:rgb(223, 32, 32);
+    box-shadow: rgba(255, 255, 255, 0.548) 0px 0px 20px;
+    border-radius: 15px;
+    font-size: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.estilobutao:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+    box-shadow: white 0px 0px 10px;
+}
+#navio,#navio2,#navio3,#navio4,#navio1,#navio5,#navio6{
+    margin-top: 5px;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+}
+#popup-alert {
+    position: fixed;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #333;
+    color: #fff;
+    padding: 15px 25px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.7);
+    font-family: Arial, sans-serif;
+    font-size: 40px;
+    display: none;
+    z-index: 10000;
+    border: transparent 1px solid;
+    border-radius: 15px;
+  }
